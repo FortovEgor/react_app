@@ -1,3 +1,10 @@
+# Отчет
+
+Сделано все, кроме специального хука для загрузки данных из БД и пагинации страниц items
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
